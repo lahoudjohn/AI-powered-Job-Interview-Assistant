@@ -10,7 +10,7 @@ This repository contains the source code and documentation for our EECE 490 cour
 - **Amjad Khaddaj**  
 
 ## Project Overview  
-This project was developed as part of the EECE 490 course requirements. It implements usage of APIs for gpt-4o-mini and fine-tuned APIs on concentrations for ECE and CCE majors at AUB.
+This project was developed as part of the EECE 490 course requirements. It implements usage of APIs for gpt-4o-mini and fine-tuned APIs on Power, Control, Hardware, Software, RF, and Communications and Netwroking Engineering which are taught at AUB.
 
 ### Key Features  
 - Chatbot that gives questions and answers them
