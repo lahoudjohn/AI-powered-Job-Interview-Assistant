@@ -1,0 +1,17 @@
+Project Overview
+The first step of our project was collecting datasets of interview questions. After extensive searching, we found a couple of datasets, including those focused on software and data science interview questions.
+
+Following this, we formulated a stronger vision for how the model would be applied and its intended use cases. For instance, we considered whether the model should tackle every topic and job category with interview questions. However, we realized that due to the scarcity of such data, using the model in such a broad manner would lead to undesirable effects, such as irrelevant or non-specific questions.
+
+To address the data scarcity issue, we explored scraping websites such as Indeed.com, RFInsights, and others. This approach allowed us to navigate the data scarcity problem by manually creating our own dataset. However, lacking Google's level of data scraping algorithms, the process took significantly longer than expected.
+
+Even after partially solving the data problem, we still couldn't continuously create datasets to use for the model. As a result, we decided to focus on more specific and closely related topics, such as Electrical and Computer Engineering interview questions, which often had larger datasets than other topics.
+
+Expanding the Model's Capabilities
+With the model designed as an interviewer, we wanted it to not only generate questions but also assess the answers provided. Initially, we aimed to evaluate sentiment in text and even considered implementing speech-to-text functionality combined with Convolutional Neural Networks (CNNs) to analyze video frames from a camera. This approach would simulate a real-life interview experience. Unfortunately, we later decided to drop the speech-to-text and CNN functionalities due to privacy concerns.
+
+Model Optimization
+After acquiring over six datasets, we focused on tuning hyperparameters, including batch size, epochs, and learning rates, to find the optimal values for the model.
+
+
+ 
