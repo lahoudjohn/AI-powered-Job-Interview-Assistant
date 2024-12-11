@@ -1,5 +1,7 @@
 # AI-powered-Job-Interview-Assistant
 
+
+
 This repository contains the source code and documentation for our EECE 490 course project, supervised by Prof. Ammar Mohanna.  
 
 ## Project Contributors  
@@ -8,11 +10,11 @@ This repository contains the source code and documentation for our EECE 490 cour
 - **Amjad Khaddaj**  
 
 ## Project Overview  
-This project was developed as part of the EECE 490 course requirements. It implements [briefly describe the main goal of your project or its functionality].  
+This project was developed as part of the EECE 490 course requirements. It implements usage of APIs for gpt-4o-mini and fine-tuned APIs on concentrations for ECE and CCE majors at AUB.
 
 ### Key Features  
 - Chatbot that gives questions and answers them
-- Interiview simulator
+- Interview simulator
 
 
 ## Installation and Setup  
