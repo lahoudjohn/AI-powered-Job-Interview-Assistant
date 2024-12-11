@@ -18,3 +18,26 @@ This project was developed as part of the EECE 490 course requirements. It imple
 
 
 ## Installation and Setup  
+## Running the Application
+
+To run the application, you can use the pre-built Docker image available on Docker Hub.
+
+### Prerequisites
+
+ 
+
+• Ensure you have Docker installed on your machine.
+
+ 
+
+### Pull the Docker Image
+
+ 
+
+Run the following command to pull the image:
+
+ 
+
+```bash
+
+docker pull jlahoud12/my_app:latest
