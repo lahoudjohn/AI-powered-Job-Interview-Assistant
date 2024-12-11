@@ -1,0 +1,123 @@
+﻿Prompt,Questions
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as meduim difficulty ,What is radio frequency energy? How do you generate it?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as meduim difficulty,RF enigeeer with proper experience and nuance What is RF engineering?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as meduim difficulty,Why is radio frequency energy important? What are its benefits?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as meduim difficulty,What are RF circulators? How do they work?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as meduim difficulty,What are isolators? What do we use them for?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as easy difficulty,What are the biological effects of exposure to radio frequency energy?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as easy difficulty,How do you determine the right frequency for your application?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as meduim difficulty ,What's the difference between RF circulators and isolators?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as meduim difficulty , What's time averaging in RF energy exposure?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as meduim difficulty ,How do you measure radio frequency?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as meduim difficulty ,What's a start meter?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as easy difficulty,What is RFID?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as meduim difficulty ,Is it better to use RFID than bar codes?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as meduim difficulty ,What are active and passive tags in RF engineering?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as meduim difficulty,What's the difference between tag collision and reader collision?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as easy difficulty,What is signal modulation?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as easy difficulty,How does a 50 ohm antenna differ from a 75 ohm antenna?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as easy difficulty,What does the carrier to interference ratio measure?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as easy difficulty,What are the different types of micro strip line? How do electromagnetic waves transmit in a micro strip line?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as easy difficulty,When are harmonics and spurious signals generated in an RF circuit? What's the difference between them?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as meduim difficulty ,What do you understand by image frequency rejection?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as meduim difficulty,Explain the homodyne and heterodyne architectures of RF receiver.
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as meduim difficulty,"Where do GaAs/GaN FETs DC gate currents originate, and why are they positive and negative? "
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as easy difficulty,How would you stabilize a transistor out-of-band at low frequency? How about in-band at operating frequency? 
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as meduim difficulty,How would you temperature compensate the transistor DC bias? 
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as meduim difficulty,What is AM-AM and AM-PM distortion and how would you measure it?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as easy difficulty,Give an example of a “memory effect”
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as meduim difficulty,How would you measure unloaded Q of a resonator?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as easy difficulty,What is self-resonant frequency of a component (i.e. chip L or C) and when is it useful.
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as easy difficulty,Why does a stripline coupler typically perform better than microstrip?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as meduim difficulty,What’s the characteristic impedance and electrical length for the lines in a 2-way Wilkinson splitter.
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as meduim difficulty,What’s the difference between RBW and VBW on a spectrum analyzer?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as meduim difficulty,When is a sliding load used in VNA calibration and how does it work?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as meduim difficulty,What does noise marker mode do on a spectrum analyzer?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as meduim difficulty,How would you measure a SMT part at several GHz with proper reference planes?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as easy difficulty,What’s a quick way to tell if your spectrum analyzer is contributing to IMD3.
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as easy difficulty,What typically limits the bandwidth on a single frequency patch antenna?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as meduim difficulty,What’s common mode radiation on a coax (to antenna) transition and what are a couple of ways to minimize it.
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,What happens to an antenna’s input impedance and directivity when you move it very close to a “ground plane”.
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,What’s an IFA or PIFA antenna and how does it relate to a monopole; why are they so common in compact devices.
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,"Given a VNA and two linearly polarized horn antennas with known gain, how would you measure the gain of a circularly polarized antenna?"
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as easy difficulty,What are the typical blocks in a superhet receiver (or down conversion chain)?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as easy difficulty,What typically determines diode mixer linearity?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as meduim difficulty,What’s IMD.
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as easy difficulty,What’s more important in LNA; noise or impedance match?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as easy difficulty,What’s cross-modulation.
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as meduim difficulty ,What are the advantages and dis-advantages of a Frac-N over an Integer-N synth?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as meduim difficulty,What specs would you look for in a linear regulator to isolate a synth analog section from a switching supply?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,"Given you don’t care about settling time, how would you set loop filter bandwidth to achieve best noise performance?"
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as easy difficulty,How would you measure phase noise on a spectrum analyzer (w/o PN utility)?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty  ,What do synth ICs have charge pump trim settings (i.e. upper and lower different gains)?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as meduim difficulty,What is skin effect?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as meduim difficulty ,What’s the highest frequency that an SMA connector can be used for TEM propagation? What happens above that?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty  ,"If you needed to slice a rectangular waveguide in half, would you slice down the broad wall or the narrow wall? Why?"
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty ,What’s the highest frequency that an SMA connector can be used for TEM propagation? What happens above that?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as easy difficulty,"How will you design a PA with 30 dBm output power? What load impedance for PA will you choose, at what point will you start thinking of power combining?"
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,"Breakdown mechanisms in MOS. How it happens? What is gate breakdown, what is drain source breakdown etc.? Go into physics of breakdown."
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,Have you designed any ESD protection circuit?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,What is the impedance looking into gate of transistor with degeneration inductor?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,Say you have matched LNA by doing source degeneration and a series inductor at input. What is the overall transconductance of the circuit?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,How can you introduce real part in input impedance of CS amplifier?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,How does device size affect noise in LNA design?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,Can you derive the noise figure of common source amplifier?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,"How do you optimize transistor (in terms of bias, device size and layout) for ft, fmax and NF"
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,"Do you know how to design bandgap, PTAT etc?"
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,"There are two current mirror transistor, one mirroring current from other. How do you increase the matching between the transistors? "
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,How can you match Vth of transistors?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,Vth increases with channel length or decreases? why?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,Increasing bias current of cmos increases the voltage gain or decreases it?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,How would you design two stage amplifier? Do you know how to compensate it?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,"Why Miller compensation does pole splitting? You also add some resistor in Miller compensation, why?"
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,What is input impedance of CS amplifier with and without Cgd cap?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,Derive output impedance expression of CS amplifier including Cgd.
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,"How to increase gain of amplifier? How do you increase output impedance? Add current source load, stack devices, super transistor, how else? What about current? Is there a sweet spot for it? "
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,What is the IIP3 of two cascaded blocks? Under what conditions this cascade IIP3 formula is not valid?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as easy difficulty,How is IM3 affected when you increase one tone amplitude and other remains fixed?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,What is the relation between IIP3 and HD3?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,What is the noise figure of two cascaded amplifiers?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,Say you are given two amplifiers with some NF. You cannot change the amplifier design. Is there anything you can do to reduce the system noise?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,"What linearity metrics do you use for PAs? (P1,IIP3,ACLR,EVM,AM-AM, AM-PM)"
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,How does AM-AM or AM-PM effect EVM?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,Do you know what is memory effect?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,"How do you bias PA? How do you take care of thermal runaway?
+ "
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,If you are in class AB how can you increase efficiency of the PA? assume passives are ideal.
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,What breakdown voltage in lower in CMOS and why? gate to drain or drain to source?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,For which impedance do you match your PA? Your signal has PAPR your output impedance is dynamically varying. Which impedance would you choose?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,What is active load pull? Why do you use it?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,Cascode LNA. How do you choose device size of input transistor? How do you choose Lg and Ls inductors? How do you choose cascode transistor size? How does cascode affect NF?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,What is current crowding in inductors? what are step symmetric inductors? pros and cons between signle ended and differential inductors?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,If you have CS amplifier and gate is terminated with very high impedance assume there is Cgd capacitance. What is the output impedance?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,How do you match 200 to 50 ohms? what is S21? Suppose the matching inductor has 1ohm series resistance. What will be the S21 now?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,What is the resonance frequency Q and BW of parallel RLC tank?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,Series resistor and inductor. If you adjust there values in such a way that Q remains same. How would it move on Smith chart for different values of R? 
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,Say a typical oscillator circuit with LC load. What is the output impedance when it oscillates? What is the output impedance when it is in transient phase where oscillations are trying to build-up?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,Say parallel LC tank. What is the current in tank during resonance vs source current?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,"What happens if I,Q are mismatched in RX? what about in TX?"
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,How do you layout a transistor? what techniques do you use to reduce parasitis? How to choose number of fingers?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,Say single stage differential opamp. If load transistors have mismatch dc offset is produced. How would you take care it? Like how would you size the transistors big or small? 
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,What is the significance of ft (transition frequency) and fmax (frequency at which unilateral gain becomes one) of transistor
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,What linearity metrics do you use for PAs? (P1 IIP3 ACLR VM AM-AM AM-PM)
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,How does AM-AM or AM-PM effect EVM?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,"
+Do you know what is memory effect?"
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,"How will you design a PA with 30 dBm output power? What load impedance for PA will you choose, at what point will you start thinking of power combining?"
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,How does the spectrum of square wave look like? What if you change the duty cycle to 25%?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,"
+An ideal amplifier with gain -1 input output connected with resistor R what is the Zin?"
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,If antenna impedance is varying how do you take care of it in PA design?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,What is single side band modulation?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,How does AM-AM and AM-PM affects IM3s?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,Input impedance of CG? What is impact of positive feedback from ro on input impedance?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,This is a current mirror circuit. Say noise is added at this point. What will be its transfer function to output?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,What is the significance of ft (transition frequency) and fmax (frequency at which unilateral gain becomes one) of transistor
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,Say single stage differential opamp. If load transistors have mismatch dc offset is produced. How would you take care it? Like how would you size the transistors big or small?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,Pole zero analysis of typical OTA
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,How do you layout a transistor? what techniques do you use to reduce parasitis? How to choose number of fingers?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,How does gain supress noise 
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,What is a smart way to place your blocks in tranceiver design
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,What is the difference between Loadline match and Conjugate match?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,What is the relation between IM# and HD3? When does it hold?
+Provide a good RF enigeering question to test proper experience and nuance categorize this question as hard difficulty,How does Miller's Effect increase input capacitance?

@@ -1,0 +1,201 @@
+Prompt,Question
+Provide a software job interview question categorized as medium difficulty.,What is the difference between compilation and interpretation?
+Provide a software job interview question categorized as medium difficulty.,Explain the concept of polymorphism.
+Provide a software job interview question categorized as hard difficulty.,Define encapsulation and give an example.
+Provide a software job interview question categorized as medium difficulty.,"What is an abstract class, and how is it different from an interface?"
+Provide a software job interview question categorized as medium difficulty.,Describe the principles of Object-Oriented Programming (OOP).
+Provide a software job interview question categorized as medium difficulty.,What is the purpose of a constructor?
+Provide a software job interview question categorized as medium difficulty.,Explain the difference between stack and heap memory.
+Provide a software job interview question categorized as medium difficulty.,"What is a design pattern, and can you name a few?"
+Provide a software job interview question categorized as medium difficulty.,"Define the term ""DRY"" in software development."
+Provide a software job interview question categorized as hard difficulty.,What is the SOLID principle?
+Provide a software job interview question categorized as easy difficulty.,What is the difference between an array and a linked list?
+Provide a software job interview question categorized as hard difficulty.,Explain the time complexity of an algorithm.
+Provide a software job interview question categorized as medium difficulty.,Describe the difference between a binary search tree and a hash table.
+Provide a software job interview question categorized as medium difficulty.,What is a linked list and how does it work?
+Provide a software job interview question categorized as medium difficulty.,Explain the concept of recursion.
+Provide a software job interview question categorized as medium difficulty.,"What is Big O notation, and why is it important?"
+Provide a software job interview question categorized as hard difficulty.,How do you perform a binary search on a sorted array?
+Provide a software job interview question categorized as medium difficulty.,Discuss the advantages and disadvantages of different sorting algorithms.
+Provide a software job interview question categorized as medium difficulty.,Explain how a hash table works.
+Provide a software job interview question categorized as hard difficulty.,What is dynamic programming?
+Provide a software job interview question categorized as medium difficulty.,What is the difference between Java and JavaScript?
+Provide a software job interview question categorized as medium difficulty.,Describe the MVC architectural pattern.
+Provide a software job interview question categorized as medium difficulty.,What is a RESTful API?
+Provide a software job interview question categorized as medium difficulty.,"Explain the use of ""this"" keyword in JavaScript."
+Provide a software job interview question categorized as medium difficulty.,What is a closure in programming?
+Provide a software job interview question categorized as medium difficulty.,What are the differences between Python 2 and Python 3?
+Provide a software job interview question categorized as hard difficulty.,Discuss the role of a package manager like npm or pip.
+Provide a software job interview question categorized as medium difficulty.,Explain the concept of multi-threading in Java.
+Provide a software job interview question categorized as medium difficulty.,What is a Singleton pattern?
+Provide a software job interview question categorized as medium difficulty.,What is a virtual function in C++?
+Provide a software job interview question categorized as medium difficulty.,"What is a database index, and why is it important?"
+Provide a software job interview question categorized as medium difficulty.,Explain the differences between SQL and NoSQL databases.
+Provide a software job interview question categorized as medium difficulty.,What is a foreign key in a database?
+Provide a software job interview question categorized as hard difficulty.,Describe the ACID properties in database transactions.
+Provide a software job interview question categorized as easy difficulty.,How do you optimize a SQL query for better performance?
+Provide a software job interview question categorized as hard difficulty.,What is normalization in database design?
+Provide a software job interview question categorized as medium difficulty.,Explain the difference between INNER JOIN and LEFT JOIN in SQL.
+Provide a software job interview question categorized as medium difficulty.,"What is a stored procedure, and when would you use one?"
+Provide a software job interview question categorized as medium difficulty.,"What is database denormalization, and when is it appropriate?"
+Provide a software job interview question categorized as medium difficulty.,Discuss the advantages and disadvantages of using an ORM tool.
+Provide a software job interview question categorized as hard difficulty.,What is the Document Object Model (DOM)?
+Provide a software job interview question categorized as medium difficulty.,Explain the difference between HTTP and HTTPS.
+Provide a software job interview question categorized as medium difficulty.,What is CORS (Cross-Origin Resource Sharing)?
+Provide a software job interview question categorized as medium difficulty.,Describe the purpose of a web server like Apache or Nginx.
+Provide a software job interview question categorized as hard difficulty.,"What is a cookie, and how does it work?"
+Provide a software job interview question categorized as medium difficulty.,What is a session in web development?
+Provide a software job interview question categorized as medium difficulty.,Explain the concept of responsive web design.
+Provide a software job interview question categorized as medium difficulty.,Describe the differences between GET and POST requests.
+Provide a software job interview question categorized as medium difficulty.,What is the importance of SEO in web development?
+Provide a software job interview question categorized as medium difficulty.,How does a web browser render a web page?
+Provide a software job interview question categorized as medium difficulty.,"What is unit testing, and why is it important?"
+Provide a software job interview question categorized as hard difficulty.,Explain the difference between black-box and white-box testing.
+Provide a software job interview question categorized as easy difficulty.,What is regression testing?
+Provide a software job interview question categorized as hard difficulty.,Describe the purpose of code reviews.
+Provide a software job interview question categorized as medium difficulty.,What is continuous integration (CI) and continuous delivery (CD)?
+Provide a software job interview question categorized as medium difficulty.,Explain the concept of code coverage in testing.
+Provide a software job interview question categorized as medium difficulty.,What is a test case and how do you write one?
+Provide a software job interview question categorized as medium difficulty.,"What is load testing, and why is it necessary?"
+Provide a software job interview question categorized as hard difficulty.,Describe the differences between manual and automated testing.
+Provide a software job interview question categorized as medium difficulty.,What is a bug tracking system?
+Provide a software job interview question categorized as medium difficulty.,"What is Git, and how does it work?"
+Provide a software job interview question categorized as hard difficulty.,Explain the difference between Git and SVN (Subversion).
+Provide a software job interview question categorized as medium difficulty.,"What is a merge conflict, and how do you resolve it in Git?"
+Provide a software job interview question categorized as medium difficulty.,Describe the purpose of branching in version control.
+Provide a software job interview question categorized as medium difficulty.,"What is a pull request (PR), and how does it work?"
+Provide a software job interview question categorized as medium difficulty.,How do you handle code conflicts in a team project?
+Provide a software job interview question categorized as medium difficulty.,"What is code refactoring, and why is it important?"
+Provide a software job interview question categorized as medium difficulty.,Explain the role of Git branching strategies like GitFlow.
+Provide a software job interview question categorized as hard difficulty.,"What is Git rebase, and when would you use it?"
+Provide a software job interview question categorized as medium difficulty.,Discuss the advantages of distributed version control systems.
+Provide a software job interview question categorized as medium difficulty.,Describe the concept of microservices architecture.
+Provide a software job interview question categorized as medium difficulty.,"What is a load balancer, and why is it used in web applications?"
+Provide a software job interview question categorized as medium difficulty.,Explain the importance of caching in web applications.
+Provide a software job interview question categorized as medium difficulty.,What is a CDN (Content Delivery Network)?
+Provide a software job interview question categorized as medium difficulty.,Discuss the pros and cons of monolithic vs. microservices architecture.
+Provide a software job interview question categorized as hard difficulty.,What is a stateless vs. stateful service?
+Provide a software job interview question categorized as easy difficulty.,Explain the concept of CAP theorem in distributed systems.
+Provide a software job interview question categorized as hard difficulty.,How do you ensure data consistency in a distributed database?
+Provide a software job interview question categorized as medium difficulty.,Describe the role of a reverse proxy in a web application.
+Provide a software job interview question categorized as medium difficulty.,"What is a message broker, and when would you use one?"
+Provide a software job interview question categorized as medium difficulty.,"What is SQL injection, and how can it be prevented?"
+Provide a software job interview question categorized as medium difficulty.,Explain the concept of Cross-Site Scripting (XSS).
+Provide a software job interview question categorized as hard difficulty.,What is two-factor authentication (2FA)?
+Provide a software job interview question categorized as medium difficulty.,Describe the process of password hashing and salting.
+Provide a software job interview question categorized as medium difficulty.,"What is OAuth, and how does it work?"
+Provide a software job interview question categorized as medium difficulty.,How do you protect against session fixation attacks?
+Provide a software job interview question categorized as hard difficulty.,Explain the principles of least privilege and defense in depth.
+Provide a software job interview question categorized as medium difficulty.,What is a DDoS (Distributed Denial of Service) attack?
+Provide a software job interview question categorized as medium difficulty.,How can you secure sensitive data in a mobile app?
+Provide a software job interview question categorized as medium difficulty.,Discuss the importance of security in API design.
+Provide a software job interview question categorized as medium difficulty.,"What is Docker, and how does it work?"
+Provide a software job interview question categorized as medium difficulty.,Explain the concept of container orchestration.
+Provide a software job interview question categorized as medium difficulty.,"What is Kubernetes, and why is it popular in container management?"
+Provide a software job interview question categorized as hard difficulty.,Describe the process of continuous integration and continuous delivery (CI/CD).
+Provide a software job interview question categorized as easy difficulty.,What is infrastructure as code (IaC)?
+Provide a software job interview question categorized as hard difficulty.,How do you monitor the performance of a web application?
+Provide a software job interview question categorized as medium difficulty.,Discuss the importance of automated testing in CI/CD pipelines.
+Provide a software job interview question categorized as medium difficulty.,"What is Blue-Green deployment, and when would you use it?"
+Provide a software job interview question categorized as medium difficulty.,Explain the role of a configuration management tool like Ansible.
+Provide a software job interview question categorized as medium difficulty.,"Describe the benefits of using a cloud platform like AWS, Azure, or Google Cloud."
+Provide a software job interview question categorized as hard difficulty.,Explain the concept of 'closure' in JavaScript.
+Provide a software job interview question categorized as medium difficulty.,Describe the use of Docker in a DevOps environment.
+Provide a software job interview question categorized as medium difficulty.,What is a 'race condition' in software development?
+Provide a software job interview question categorized as hard difficulty.,How would you optimize a website's load time?
+Provide a software job interview question categorized as medium difficulty.,What is the difference between SQL and NoSQL databases?
+Provide a software job interview question categorized as medium difficulty.,Can you explain the concept of 'state' in React?
+Provide a software job interview question categorized as medium difficulty.,What is continuous integration in DevOps?
+Provide a software job interview question categorized as medium difficulty.,How do you implement a binary search algorithm?
+Provide a software job interview question categorized as medium difficulty.,Describe the MVC architecture.
+Provide a software job interview question categorized as medium difficulty.,What are microservices and how do they differ from monolithic architectures?
+Provide a software job interview question categorized as hard difficulty.,Explain the difference between '==' and '===' in JavaScript.
+Provide a software job interview question categorized as medium difficulty.,What is Kubernetes and how does it relate to containerization?
+Provide a software job interview question categorized as medium difficulty.,Describe how you would implement a RESTful API in a back-end application.
+Provide a software job interview question categorized as medium difficulty.,What are the benefits of server-side rendering vs client-side rendering?
+Provide a software job interview question categorized as medium difficulty.,How do NoSQL databases handle data scaling compared to traditional SQL databases?
+Provide a software job interview question categorized as medium difficulty.,Explain the use of hooks in React.
+Provide a software job interview question categorized as medium difficulty.,What is Infrastructure as Code (IaC) and its significance in DevOps?
+Provide a software job interview question categorized as hard difficulty.,Describe the process of memoization in programming.
+Provide a software job interview question categorized as easy difficulty.,What are the advantages of using a microservices architecture?
+Provide a software job interview question categorized as hard difficulty.,Explain the SOLID principles in software engineering.
+Provide a software job interview question categorized as medium difficulty.,What is lazy loading in web development?
+Provide a software job interview question categorized as medium difficulty.,Discuss the role of a load balancer in a distributed system.
+Provide a software job interview question categorized as medium difficulty.,How does indexing improve database query performance?
+Provide a software job interview question categorized as medium difficulty.,Explain event delegation in JavaScript.
+Provide a software job interview question categorized as hard difficulty.,Explain the concept of 'closure' in JavaScript.
+Provide a software job interview question categorized as medium difficulty.,Describe the use of Docker in a DevOps environment.
+Provide a software job interview question categorized as hard difficulty.,What is a 'race condition' in software development?
+Provide a software job interview question categorized as medium difficulty.,How would you optimize a website's load time?
+Provide a software job interview question categorized as medium difficulty.,What is the difference between SQL and NoSQL databases?
+Provide a software job interview question categorized as medium difficulty.,Can you explain the concept of 'state' in React?
+Provide a software job interview question categorized as medium difficulty.,What is continuous integration in DevOps?
+Provide a software job interview question categorized as medium difficulty.,How do you implement a binary search algorithm?
+Provide a software job interview question categorized as medium difficulty.,Describe the MVC architecture.
+Provide a software job interview question categorized as hard difficulty.,What are microservices and how do they differ from monolithic architectures?
+Provide a software job interview question categorized as easy difficulty.,Explain the difference between '==' and '===' in JavaScript.
+Provide a software job interview question categorized as hard difficulty.,What is Kubernetes and how does it relate to containerization?
+Provide a software job interview question categorized as medium difficulty.,Describe how you would implement a RESTful API in a back-end application.
+Provide a software job interview question categorized as medium difficulty.,What are the benefits of server-side rendering vs client-side rendering?
+Provide a software job interview question categorized as medium difficulty.,How do NoSQL databases handle data scaling compared to traditional SQL databases?
+Provide a software job interview question categorized as medium difficulty.,Explain the use of hooks in React.
+Provide a software job interview question categorized as hard difficulty.,What is Infrastructure as Code (IaC) and its significance in DevOps?
+Provide a software job interview question categorized as medium difficulty.,Describe the process of memoization in programming.
+Provide a software job interview question categorized as medium difficulty.,What are the advantages of using a microservices architecture?
+Provide a software job interview question categorized as hard difficulty.,Explain the SOLID principles in software engineering.
+Provide a software job interview question categorized as medium difficulty.,What is lazy loading in web development?
+Provide a software job interview question categorized as medium difficulty.,Discuss the role of a load balancer in a distributed system.
+Provide a software job interview question categorized as medium difficulty.,How does indexing improve database query performance?
+Provide a software job interview question categorized as medium difficulty.,Explain event delegation in JavaScript.
+Provide a software job interview question categorized as medium difficulty.,Explain the concept of 'closure' in JavaScript.
+Provide a software job interview question categorized as medium difficulty.,Describe the use of Docker in a DevOps environment.
+Provide a software job interview question categorized as hard difficulty.,Design a distributed key-value store.
+Provide a software job interview question categorized as hard difficulty.,Implement a function to check if a binary tree is balanced.
+Provide a software job interview question categorized as hard difficulty.,Design a URL shortening service like bit.ly.
+Provide a software job interview question categorized as hard difficulty.,Design a recommendation system for a large e-commerce platform.
+Provide a software job interview question categorized as hard difficulty.,Write an algorithm to find the median of a stream of numbers.
+Provide a software job interview question categorized as hard difficulty.,Explain the Raft consensus algorithm.
+Provide a software job interview question categorized as hard difficulty.,"Optimize a global, high-traffic content delivery network."
+Provide a software job interview question categorized as hard difficulty.,Design a chat application that can scale to millions of users.
+Provide a software job interview question categorized as hard difficulty.,Implement a garbage collector for a programming language.
+Provide a software job interview question categorized as hard difficulty.,Design a scalable notification system for a social network.
+Provide a software job interview question categorized as hard difficulty.,Explain the workings of the TCP protocol for a low-latency network.
+Provide a software job interview question categorized as hard difficulty.,Design and implement a concurrent hash map.
+Provide a software job interview question categorized as hard difficulty.,Find the Kth largest element in a stream of numbers.
+Provide a software job interview question categorized as hard difficulty.,Implement Google's PageRank algorithm.
+Provide a software job interview question categorized as hard difficulty.,Design an API rate limiter for a web service.
+Provide a software job interview question categorized as hard difficulty.,Optimize database queries for a high-traffic website.
+Provide a software job interview question categorized as hard difficulty.,Create a secure and scalable authentication system for a web application.
+Provide a software job interview question categorized as hard difficulty.,Design a system for efficient storage and retrieval of large-scale time-series data.
+Provide a software job interview question categorized as hard difficulty.,Explain how a blockchain works and how to implement one.
+Provide a software job interview question categorized as hard difficulty.,Design an efficient parking lot management system.
+Provide a software job interview question categorized as hard difficulty.,Develop a machine learning model to predict stock prices.
+Provide a software job interview question categorized as hard difficulty.,Write a custom memory allocator for a C++ application.
+Provide a software job interview question categorized as hard difficulty.,Design a real-time multiplayer online game architecture.
+Provide a software job interview question categorized as hard difficulty.,Implement a distributed file system.
+Provide a software job interview question categorized as hard difficulty.,Optimize a search algorithm for a large dataset in a distributed environment.
+Provide a software job interview question categorized as hard difficulty.,Design a data pipeline for processing big data in real-time.
+Provide a software job interview question categorized as hard difficulty.,Build a high-frequency trading system and discuss its components.
+Provide a software job interview question categorized as hard difficulty.,Develop a deep learning model to analyze and interpret medical images.
+Provide a software job interview question categorized as hard difficulty.,Create an AI that can play a complex board game at a competitive level.
+Provide a software job interview question categorized as hard difficulty.,Design a fraud detection system for online transactions.
+Provide a software job interview question categorized as hard difficulty.,Implement a distributed graph processing framework.
+Provide a software job interview question categorized as hard difficulty.,Design a global video streaming service like Netflix.
+Provide a software job interview question categorized as hard difficulty.,Create a system to efficiently match job seekers with job postings.
+Provide a software job interview question categorized as hard difficulty.,Design and implement a large-scale distributed cache system.
+Provide a software job interview question categorized as hard difficulty.,Optimize network protocols for a satellite communication system.
+Provide a software job interview question categorized as hard difficulty.,Develop an autonomous vehicle's path planning algorithm.
+Provide a software job interview question categorized as hard difficulty.,Design a scalable and reliable messaging system for a large corporation.
+Provide a software job interview question categorized as hard difficulty.,Implement a natural language processing algorithm to understand and answer user queries.
+Provide a software job interview question categorized as hard difficulty.,Create an efficient algorithm for real-time anomaly detection in network traffic.
+Provide a software job interview question categorized as hard difficulty.,Design a system to manage and process Internet of Things (IoT) data.
+Provide a software job interview question categorized as hard difficulty.,Build a compiler for a new programming language.
+Provide a software job interview question categorized as hard difficulty.,Implement a robust text editor with features like auto-complete and syntax highlighting.
+Provide a software job interview question categorized as hard difficulty.,Design a scalable infrastructure for an online advertising platform.
+Provide a software job interview question categorized as hard difficulty.,Develop a machine learning algorithm to detect fake news on social media.
+Provide a software job interview question categorized as hard difficulty.,Optimize an SQL database for a high-volume financial transaction system.
+Provide a software job interview question categorized as hard difficulty.,Design a cloud-based virtual desktop infrastructure.
+Provide a software job interview question categorized as hard difficulty.,Create a real-time sports analytics system using sensor data.
+Provide a software job interview question categorized as hard difficulty.,Implement a quantum algorithm for solving a well-known computational problem.
+Provide a software job interview question categorized as hard difficulty.,Design a secure mobile payment system for developing countries.
+Provide a software job interview question categorized as hard difficulty.,Build a scalable image processing pipeline for a photo-sharing app.
