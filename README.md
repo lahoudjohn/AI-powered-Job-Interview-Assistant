@@ -1,8 +1,5 @@
 # AI-powered-Job-Interview-Assistant
 
-
-# EECE 490 Final Project  
-
 This repository contains the source code and documentation for our EECE 490 course project, supervised by Prof. Ammar Mohanna.  
 
 ## Project Contributors  
